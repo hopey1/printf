@@ -3,9 +3,9 @@
 
 #include <stdarg.h>
 /**
- *  struct print - structure for printing various types
- *  @t: type to print
- *  @f: function to print
+ * struct print - structure for printing various types
+ * @t: type to print
+ * @f: function to print
  */
 typedef struct print
 {
